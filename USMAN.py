@@ -1,5 +1,5 @@
 # Decompiled By USMAN SHAHZAD
-# Github : https://github.com/Abdull
+# Github : https://github.com/Usman132/RAJPOOT69.git
 # uncompyle6 version 1.1.3
 # Original written By USMAN SHAHZAD
  
@@ -106,7 +106,7 @@ logo = """
 \x1b[1;96m________________________________________________________
 \x1b[1;96m\033[1;96mAuthor   :            USMAN SHAHZAD
 \x1b[1;96m\033[1;96mFacebook :          USMAN SHAHZAD 
-\x1b[1;96m\033[1;96mGitHub   :             Usman132
+\x1b[1;96m\033[1;96mGitHub   :        github.com/Usman132
 \x1b[1;96m\033[1;96mVersion  :              1.1.3
 \x1b[1;96m________________________________________________________
                                                  """
